@@ -12,11 +12,11 @@
     "type": "library",
     "require": {
         "php": "^8.2",
-        "illuminate/container": "^10.0|^11.0",
-        "illuminate/console": "^10.0|^11.0",
-        "illuminate/database": "^10.0|^11.0",
-        "illuminate/support": "^10.0|^11.0",
-        "illuminate/config": "^10.0|^11.0"
+        "illuminate/container": "^10.0|^11.0|^12.0",
+        "illuminate/console": "^10.0|^11.0|^12.0",
+        "illuminate/database": "^10.0|^11.0|^12.0",
+        "illuminate/support": "^10.0|^11.0|^12.0",
+        "illuminate/config": "^10.0|^11.0|^12.0"
     },
     "require-dev": {
         "laravel/pint": "^1.13",
@@ -39,8 +39,8 @@
     },
     "authors": [
         {
-            "name": "Mohammed Safadi",
-            "email": "m.safadi@hotmail.com"
+            "name": "Trevor Okwirri",
+            "email": "trevorokwirri@gmail.com"
         }
     ],
     "minimum-stability": "stable",
